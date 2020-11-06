@@ -1,0 +1,14 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/**"
+  ],
+  "scripts": {},
+  "devDependencies": {
+    "lerna": "^3.22.1",
+    "prettier": "^2.1.2",
+    "standard": "^14.3.4"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "eslint.enable": false,
+  "prettier.enable": true,
+  "files.autoSave": "off",
+
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+
+  "[graphql]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+
+  "standard.enable": true,
+  "standard.autoFixOnSave": true
+}
